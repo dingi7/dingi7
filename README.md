@@ -3,8 +3,8 @@
 <br>
 
 # 📋 Certificates:
-[Programming Fundamentals with JavaScript - May 2022 - Certificate.pdf](Programming Fundamentals with JS - January 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071464/Programming.Fundamentals.with.JS.-.January.2022.-.Certificate.pdf)
-)
+[Programming Fundamentals with JS - January 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071466/Programming.Fundamentals.with.JS.-.January.2022.-.Certificate.pdf)
+
 
 [JS Advanced - September 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9945885/JS.Advanced.-.September.2022.-.Certificate.pdf)
 
