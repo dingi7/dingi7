@@ -1,16 +1,19 @@
-### Hi there 👋
+# 💫 About Me:
+😀My name is Kamen<br>👨‍🎓Student at SoftUni(softuni.bg)<br>🌱I’m currently studying ReactJS <br>
+<br>
 
-<!--
-**dingi7/dingi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📋 Certificates:
+[Programming Fundamentals with JavaScript - May 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9333860/Programming.Fundamentals.with.JavaScript.-.May.2022.-.Certificate.pdf)
 
-Here are some ideas to get you started:
+[JS Advanced - September 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9945885/JS.Advanced.-.September.2022.-.Certificate.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[JS Applications - October 2022 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/10318067/JS.Applications.-.October.2022.-.Certificate.pdf)
+
+
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dingi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dingi7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
