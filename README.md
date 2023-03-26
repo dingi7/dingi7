@@ -4,11 +4,9 @@
 
 # 📋 Certificates:
 [Programming Fundamentals with JS - January 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071466/Programming.Fundamentals.with.JS.-.January.2022.-.Certificate.pdf)
-
-
-[JS Advanced - September 2022 - Certificate.pdf](https://github.com/MityoDraganov/Softuni/files/9945885/JS.Advanced.-.September.2022.-.Certificate.pdf)
-
-[JS Applications - October 2022 - Certificate.pdf](https://github.com/MityoDraganov/MityoDraganov/files/10318067/JS.Applications.-.October.2022.-.Certificate.pdf)
+[JS Advanced - September 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071468/JS.Advanced.-.September.2022.-.Certificate.pdf)
+[JS Back-End - January 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071469/JS.Back-End.-.January.2023.-.Certificate.pdf)
+[JS Applications - October 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071470/JS.Applications.-.October.2022.-.Certificate.pdf)
 
 
 
