@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀My name is Kamen<br>👨‍🎓Student at SoftUni(softuni.bg)<br>🌱I’m currently learning ReactJS <br>
+😀My name is Kamen<br>👨‍🎓Student at SoftUni(softuni.bg)<br>🌱I’m currently building with ReactJS <br>
 <br>
 
 # 📋 Certificates:
