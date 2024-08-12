@@ -10,7 +10,8 @@
 [ReactJS - February 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11641949/ReactJS.-.February.2023.-.Certificate.pdf)<br>
 [C# Advanced - September 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/13854545/C.Advanced.-.September.2023.-.Certificate.pdf)<br>
 [C# OOP - October 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/13854548/C.OOP.-.October.2023.-.Certificate.pdf)<br>
-[English - FCE.pdf](https://github.com/dingi7/dingi7/files/12025256/StatementOfResult.pdf)<br>
+[English - FCE*.pdf](https://github.com/user-attachments/files/16589060/StatementOfResult.2.pdf)<br>
+
 
 
 
