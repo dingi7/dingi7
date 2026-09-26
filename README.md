@@ -1,10 +1,22 @@
 # 👋 Hi, I'm Kamen
 
-🛠️ I build for the web: Shopify themes, 3D product configurators, SaaS products and cloud infrastructure.<br>
-🏢 Currently building with [@smarch-co](https://github.com/smarch-co) and [@Dynarii-Inc](https://github.com/Dynarii-Inc)<br>
+I'm a software engineer from Sliven, Bulgaria 🇧🇬 building for the web: e-commerce storefronts, interactive product experiences, SaaS products and the cloud infrastructure behind them.
+
+🏢 Currently building with [@smarch-co](https://github.com/smarch-co)<br>
 ⚡ Day to day: TypeScript, React / Next.js, Go, Astro, Shopify (Liquid) and Cloudflare<br>
-📍 Sliven, Bulgaria 🇧🇬<br>
 🚀 Always shipping, always learning
+
+## 🛠️ What I work on
+- **Shopify storefronts:** custom themes and sections built in Liquid, tuned for speed and conversion
+- **3D product configurators:** interactive customisers that let shoppers build and preview products in real time
+- **Web apps & SaaS:** full-stack TypeScript apps with React / Next.js, from dashboards to internal tools
+- **Landing pages & sites:** fast, content-driven sites with Astro, deployed on Cloudflare
+- **Backend & cloud:** Go services, serverless on Cloudflare and infrastructure as code with Terraform
+
+## 🌱 Right now
+- Bringing AI into real products and developer workflows
+- Going deeper on Go and cloud architecture
+- Shipping client projects end to end, from design handoff to production
 
 # 💻 Tech Stack:
 <p>
@@ -23,23 +35,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
 </p>
-
-# 📋 Certificates:
-<details>
-<summary>Show certificates</summary>
-
-[Programming Fundamentals with JS - January 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071466/Programming.Fundamentals.with.JS.-.January.2022.-.Certificate.pdf)<br>
-[JS Advanced - September 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071468/JS.Advanced.-.September.2022.-.Certificate.pdf)<br>
-[JS Applications - October 2022 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071470/JS.Applications.-.October.2022.-.Certificate.pdf)<br>
-[JS Back-End - January 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11071469/JS.Back-End.-.January.2023.-.Certificate.pdf)<br>
-[ReactJS - February 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/11641949/ReactJS.-.February.2023.-.Certificate.pdf)<br>
-[C# Advanced - September 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/13854545/C.Advanced.-.September.2023.-.Certificate.pdf)<br>
-[C# OOP - October 2023 - Certificate.pdf](https://github.com/dingi7/dingi7/files/13854548/C.OOP.-.October.2023.-.Certificate.pdf)<br>
-[English - CPE*.pdf](https://github.com/user-attachments/files/22897862/StatementOfResult.pdf)
-
-</details>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dingi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dingi7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
